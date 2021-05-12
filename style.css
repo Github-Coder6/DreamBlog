@@ -1,0 +1,138 @@
+#connectiframe
+{
+    width: 100%;
+}
+.connect_1 h3
+{
+    display: inline;
+}
+.connect_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background-color: antiquewhite;
+}
+.travel_mainDiv{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.travel_mainDiv img{
+    width: 97%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 600px;
+}
+.travel_mainDiv hr{
+    width: 230px;
+}
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin-left: 20px;
+    color: white;
+}
+body{
+    background-color: #343434;
+}
+h1{
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+}
+#h44{
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+p{
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+html{
+    scroll-behavior: smooth;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    background-color: #ff7700;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: #ff7700;
+}
+.head_for_movie{
+    color: #ffffff;
+}
+.environment_li{
+    margin-top: 13px;
+}
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.environment_li img{
+    border-radius: 12px;
+}
+.environment_li p{
+    margin-top: 10px;
+    color: black;
+}
+.header_entrepreneur{
+    line-height: 2;
+}
+.book{
+    cursor:pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display:inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+    color: black;
+}
+.modal-body{
+    text-align: center;
+}
+h2{
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+}
+.flee{
+    height: 350px;
+    width: 350px;
+    margin-bottom: 250px;
+}
+.text_primary{
+    background-color: beige;
+}
+h3{
+    font-family: 'Permanent Marker', cursive;
+    color;: white;
+}
+.profile{
+    height: 100px;
+    width: 100px;
+    border-radius: 75px;
+    border-color: white;
+    border-width: 5px;
+}
+.flle{
+    display: flex;
+}
+.name{
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+}
