@@ -111,10 +111,11 @@ h2{
     font-family: 'Permanent Marker', cursive;
 }
 .flee{
-    height: 350px;
-    width: 350px;
-    margin-bottom: 250px;
+    height: 250px;
+    width: 250px; 
+    margin-bottom: 100px;
 }
+
 .text_primary{
     background-color: beige;
 }
@@ -131,8 +132,19 @@ h3{
 }
 .flle{
     display: flex;
+    text-align: center;
 }
 .name{
     font-family: 'Permanent Marker', cursive;
     color: white;
+}
+.name:hover{
+    color: darkorange;
+}
+.connect{
+    padding-top: 500px;
+}
+#bib{
+    padding-bottom: 350px;
+    shape-margin: 350px;
 }
